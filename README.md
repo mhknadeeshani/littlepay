@@ -14,6 +14,9 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
+Input file - rides.csv is at the resources directory.
+
+Output file - output.csv will be created in the littlepay directory after successful run.
 
 ## Assumptions
 
